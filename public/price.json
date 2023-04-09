@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Basic",
+      "features": ["Access to gym facilities", "Group classes"],
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "Standard",
+      "features": ["Access to gym facilities", "Group classes", "Personal trainer"],
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "name": "Premium",
+      "features": ["Access to gym facilities", "Group classes", "Personal trainer"],
+      "price": 99.99
+    }
+  ]
+  
